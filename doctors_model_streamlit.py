@@ -22,7 +22,7 @@ st.set_page_config(layout="wide")
  #   os.chdir(r"/doctors_model_analysis")
   #  df = pd.read_excel("Doctor vs model analysis 20.12.2023.xlsx", engine="openpyxl")
 
-df = pd.read_excel(r"Doctor vs model analysis 20.12.2023.xlsx", engine="openpyxl")
+df = pd.read_excel(r"Doctor vs model analysis 20.12.2023.xlsx")
 #df = data.copy()
 
 # streamlit run .\doctors_vs_model_analysis\doctors_model_streamlit.py
