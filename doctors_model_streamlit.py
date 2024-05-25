@@ -19,7 +19,7 @@ if fl is not None:
     st.write(filename)
     df = pd.read_excel(filename, engine="openpyxl")
 else:
-    os.chdir(r"C:\Users\erkan\Desktop\Upwork\Doctor vs model analysis")
+    os.chdir("/erkanortucu/doctors_model_analysis")
     df = pd.read_excel("Doctor vs model analysis 20.12.2023.xlsx", engine="openpyxl")
 
 #df = data.copy()
