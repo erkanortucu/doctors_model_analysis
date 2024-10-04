@@ -1,4 +1,4 @@
-app link : https://doctorsmodelanalysis-48cfptuxrajm4mwbwwpcgc.streamlit.app/
+app link : https://doctorsmodelanalysis-bybkasyf5nnwzl7uwskkaz.streamlit.app/
   
   In our experiment, we compared the gold standard diagnosis, the doctor's prediction, and the model prediction for a specific case. 
 Both the doctor and the model were given the patient's history and asked to provide their disease predictions. The gold standard diagnosis represents
